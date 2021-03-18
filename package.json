@@ -2,7 +2,7 @@
   "name": "tracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://vnshanmukh.github.io/cryptocurrency-traker/",
+  "homepage": "http://vnshanmukh.github.io/cryptocurrency-tracker/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
