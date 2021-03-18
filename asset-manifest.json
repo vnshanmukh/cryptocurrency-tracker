@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/cryptocurrency-traker/static/css/main.09c883ef.chunk.css",
-    "main.js": "/cryptocurrency-traker/static/js/main.44a96c6c.chunk.js",
-    "main.js.map": "/cryptocurrency-traker/static/js/main.44a96c6c.chunk.js.map",
-    "runtime-main.js": "/cryptocurrency-traker/static/js/runtime-main.216e7282.js",
-    "runtime-main.js.map": "/cryptocurrency-traker/static/js/runtime-main.216e7282.js.map",
-    "static/js/2.02f4ae79.chunk.js": "/cryptocurrency-traker/static/js/2.02f4ae79.chunk.js",
-    "static/js/2.02f4ae79.chunk.js.map": "/cryptocurrency-traker/static/js/2.02f4ae79.chunk.js.map",
-    "index.html": "/cryptocurrency-traker/index.html",
-    "static/css/main.09c883ef.chunk.css.map": "/cryptocurrency-traker/static/css/main.09c883ef.chunk.css.map",
-    "static/js/2.02f4ae79.chunk.js.LICENSE.txt": "/cryptocurrency-traker/static/js/2.02f4ae79.chunk.js.LICENSE.txt"
+    "main.css": "/cryptocurrency-tracker/static/css/main.09c883ef.chunk.css",
+    "main.js": "/cryptocurrency-tracker/static/js/main.44a96c6c.chunk.js",
+    "main.js.map": "/cryptocurrency-tracker/static/js/main.44a96c6c.chunk.js.map",
+    "runtime-main.js": "/cryptocurrency-tracker/static/js/runtime-main.a6aed29a.js",
+    "runtime-main.js.map": "/cryptocurrency-tracker/static/js/runtime-main.a6aed29a.js.map",
+    "static/js/2.02f4ae79.chunk.js": "/cryptocurrency-tracker/static/js/2.02f4ae79.chunk.js",
+    "static/js/2.02f4ae79.chunk.js.map": "/cryptocurrency-tracker/static/js/2.02f4ae79.chunk.js.map",
+    "index.html": "/cryptocurrency-tracker/index.html",
+    "static/css/main.09c883ef.chunk.css.map": "/cryptocurrency-tracker/static/css/main.09c883ef.chunk.css.map",
+    "static/js/2.02f4ae79.chunk.js.LICENSE.txt": "/cryptocurrency-tracker/static/js/2.02f4ae79.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.216e7282.js",
+    "static/js/runtime-main.a6aed29a.js",
     "static/js/2.02f4ae79.chunk.js",
     "static/css/main.09c883ef.chunk.css",
     "static/js/main.44a96c6c.chunk.js"
